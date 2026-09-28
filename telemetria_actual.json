@@ -2014,5 +2014,13 @@
         "humidity_state": "HUMEDO",
         "light": "OSCURIDAD",
         "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-28 17:41:06",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1141,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
     }
 ]

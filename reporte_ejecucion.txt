@@ -4,31 +4,31 @@
 ====================================================
 Dispositivo: ESP32-CAM-001
 Puerto serial: COM3
-Inicio: 2026-09-26 20:11:16
-Fin: 2026-09-26 20:18:25
-Duración: 00:07:09
+Inicio: 2026-09-28 17:41:03
+Fin: 2026-09-28 18:06:50
+Duración: 00:25:47
 
 --- TELEMETRÍA ---
-Mensajes DATA recibidos: 29
-Telemetrías válidas: 29
+Mensajes DATA recibidos: 1
+Telemetrías válidas: 1
 Datos inválidos rechazados: 0
 JSON inválidos recibidos: 0
-Inserciones en MySQL: 29
-Registros actuales en JSON: 252
+Inserciones en MySQL: 1
+Registros actuales en JSON: 253
 
 --- EVENTOS ---
 Riegos iniciados: 0
 Riegos finalizados: 0
-Desconexiones detectadas: 0
+Desconexiones detectadas: 1
 Reconexiones realizadas: 0
 
 --- RECURSOS DEL SISTEMA AL FINALIZAR ---
-CPU total: 5.9%
-RAM utilizada: 74.7%
+CPU total: 7.1%
+RAM utilizada: 76.1%
 Disco ocupado: 33.9%
-Disco libre: 330.67 GB
+Disco libre: 330.55 GB
 CPU del proceso Python: 0.0%
-RAM del proceso Python: 35.68 MB
+RAM del proceso Python: 35.38 MB
 
 --- RESULTADO ---
 La ejecución finalizó de forma controlada por el usuario.
