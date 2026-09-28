@@ -1,0 +1,2018 @@
+[
+    {
+        "fecha_hora": "2026-09-23 22:39:54",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2365,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:40:09",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2349,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:40:24",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2362,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:40:39",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2381,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:40:54",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2384,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:41:09",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2387,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:41:24",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2370,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-23 22:41:39",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2385,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:35:40",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1607,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:35:52",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1643,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:36:07",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 4095,
+        "humidity_state": "SECO",
+        "light": "LUZ",
+        "pump": "ON"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:36:22",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 4095,
+        "humidity_state": "SECO",
+        "light": "LUZ",
+        "pump": "ON"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:36:38",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 2814,
+        "humidity_state": "MEDIO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:39:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1023,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:39:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 4095,
+        "humidity_state": "SECO",
+        "light": "LUZ",
+        "pump": "ON"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:39:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1070,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:39:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1104,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:40:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1116,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:40:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1163,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:40:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1146,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:40:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1163,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:41:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1243,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:41:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1229,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:41:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1190,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:41:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1264,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:42:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1262,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:42:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1263,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:42:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1279,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:42:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1298,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:43:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1270,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:43:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1224,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:43:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1321,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:43:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1316,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:44:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1310,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:44:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1326,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:44:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1321,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:44:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1292,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:45:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1315,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:45:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1293,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:45:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1314,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:45:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1270,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:46:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1318,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:46:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1332,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:46:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1352,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:46:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1299,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:47:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1362,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:47:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1331,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:47:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1319,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:47:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1351,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:48:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1291,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:48:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1319,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:48:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1376,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:48:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1331,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:49:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1369,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:49:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1353,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:49:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1342,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:49:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1290,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:50:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1279,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:50:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1335,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:50:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1335,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:50:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1315,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:51:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1317,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:51:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1383,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:51:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1391,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:51:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1361,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:52:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:52:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1359,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:52:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1394,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:52:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1355,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:53:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1363,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:53:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1382,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:53:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1378,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:53:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1415,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:54:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1377,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:54:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1431,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:54:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:54:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1463,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:55:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1401,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:55:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1397,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:55:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1459,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:55:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1419,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:56:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1406,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:56:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1460,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:56:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1423,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:56:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1435,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:57:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1437,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:57:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1407,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:57:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1419,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:57:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1413,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:58:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:58:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1426,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:58:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1391,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:58:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1422,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:59:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1433,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:59:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1377,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:59:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1389,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 14:59:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1386,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:00:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1406,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:00:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1446,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:00:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1423,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:00:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1441,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:01:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1411,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:01:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1391,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:01:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1438,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:01:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1428,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:02:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1415,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:02:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1369,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:02:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1377,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:02:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:03:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1389,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:03:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1407,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:03:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1402,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:03:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:04:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1382,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:04:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:04:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1371,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:04:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:05:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1398,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:05:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1410,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:05:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1403,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:05:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1401,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:06:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1456,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:06:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1427,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:06:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1461,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:06:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1417,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:07:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1427,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:07:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1421,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:07:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:07:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1477,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:08:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1463,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:08:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1475,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:08:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1398,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:08:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1409,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:09:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1456,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:09:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1441,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:09:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1452,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:09:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1451,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:10:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1427,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:10:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1488,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:10:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1429,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:10:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1402,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:11:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1454,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:11:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1426,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:11:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1447,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:11:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1458,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:12:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1408,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:12:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1431,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:12:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1446,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:12:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1455,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:13:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1398,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:13:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1366,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:13:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1373,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:13:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1403,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:14:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1382,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:14:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1417,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:14:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1408,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:14:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1405,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:15:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1367,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:15:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1407,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:15:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1407,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:15:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:16:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1408,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:16:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1409,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:16:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:16:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1415,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:17:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:17:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1365,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:17:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1414,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:17:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1427,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:18:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1393,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:18:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1426,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:18:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1411,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:18:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1494,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:19:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:19:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1399,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:19:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1407,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:19:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1463,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:20:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1478,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:20:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1421,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:20:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1383,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:20:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1386,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:21:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1469,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:21:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1405,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:21:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1429,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:21:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1362,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:22:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1373,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:22:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1445,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:22:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1378,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:22:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1441,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:23:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1374,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:23:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1405,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:23:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1377,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:23:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1377,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:24:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1379,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:24:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1397,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:24:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1409,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:24:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1409,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:25:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1375,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:25:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1394,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:25:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1445,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:25:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1438,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:26:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1421,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:26:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1392,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:26:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1417,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:26:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:27:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1428,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:27:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1424,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:27:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1433,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:27:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1441,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:28:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1473,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:28:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1451,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:28:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1422,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:28:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1479,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:29:10",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1462,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:29:25",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1454,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:29:41",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1463,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-25 15:29:55",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1467,
+        "humidity_state": "HUMEDO",
+        "light": "LUZ",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 19:44:06",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1022,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:09:38",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1342,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:09:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1357,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:10:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1328,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:10:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1362,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:10:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1349,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:11:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1353,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:11:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1373,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:11:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1363,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:12:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1349,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:12:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1355,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:12:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1371,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:12:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1328,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:13:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1329,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:13:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1350,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:13:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1363,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:13:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1342,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:14:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1312,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:14:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1333,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:14:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1329,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:14:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1361,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:15:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1349,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:15:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1326,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:15:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1338,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:15:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1310,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:16:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1327,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:16:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1337,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:16:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1357,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:16:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1335,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:17:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1350,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:17:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1331,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:17:35",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1344,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:17:50",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1360,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:18:05",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1363,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    },
+    {
+        "fecha_hora": "2026-09-26 20:18:20",
+        "device_id": "ESP32-CAM-001",
+        "humidity_raw": 1333,
+        "humidity_state": "HUMEDO",
+        "light": "OSCURIDAD",
+        "pump": "OFF"
+    }
+]

@@ -1,0 +1,37 @@
+====================================================
+ REPORTE RESUMIDO DE EJECUCIÓN - RF08
+ SISTEMA DE RIEGO INTELIGENTE
+====================================================
+Dispositivo: ESP32-CAM-001
+Puerto serial: COM3
+Inicio: 2026-09-26 20:11:16
+Fin: 2026-09-26 20:18:25
+Duración: 00:07:09
+
+--- TELEMETRÍA ---
+Mensajes DATA recibidos: 29
+Telemetrías válidas: 29
+Datos inválidos rechazados: 0
+JSON inválidos recibidos: 0
+Inserciones en MySQL: 29
+Registros actuales en JSON: 252
+
+--- EVENTOS ---
+Riegos iniciados: 0
+Riegos finalizados: 0
+Desconexiones detectadas: 0
+Reconexiones realizadas: 0
+
+--- RECURSOS DEL SISTEMA AL FINALIZAR ---
+CPU total: 5.9%
+RAM utilizada: 74.7%
+Disco ocupado: 33.9%
+Disco libre: 330.67 GB
+CPU del proceso Python: 0.0%
+RAM del proceso Python: 35.68 MB
+
+--- RESULTADO ---
+La ejecución finalizó de forma controlada por el usuario.
+Los datos válidos fueron persistidos en MySQL y JSON.
+Los datos inválidos fueron rechazados y registrados como eventos.
+====================================================
