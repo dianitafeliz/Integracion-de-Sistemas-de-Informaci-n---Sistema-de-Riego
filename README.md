@@ -61,7 +61,8 @@ Además de realizar el control físico, el sistema registra las condiciones dete
 
 La arquitectura está dividida en cinco componentes principales:
 
-<img width="251" height="497" alt="image" src="https://github.com/user-attachments/assets/d5234a9f-aec4-4aac-bd4c-676e778e0e50" />
+<img width="251" height="497" alt="image" src="https://github.com/user-attachments/assets/d5b7e478-cd90-4893-a6f3-293f04741fd4" />
+
 
 
 <img width="1740" height="954" alt="image" src="https://github.com/user-attachments/assets/40d0da00-fcb1-473c-877c-9c3299a57a27" />
@@ -71,7 +72,7 @@ La arquitectura está dividida en cinco componentes principales:
 
 Los componentes utilizados son:
 
-- **ESP32-CAM**
+- **ESP32**
 - Sensor de humedad del suelo
 - Sensor de luz
 - Módulo relé de un canal
@@ -96,7 +97,7 @@ El hardware no realiza el almacenamiento histórico ni genera reportes.
 
 # 5. Pines utilizados
 
-| Componente | Pin ESP32-CAM |
+| Componente | Pin ESP32|
 |---|---:|
 | Sensor de humedad AO | GPIO 13 |
 | Sensor de luz DO | GPIO 15 |
@@ -114,7 +115,7 @@ El firmware se encuentra en:
 firmware_sistema_de_riego/
 ```
 
-El programa fue desarrollado para el ESP32-CAM utilizando Arduino IDE.
+El programa fue desarrollado para el ESP32utilizando Arduino IDE.
 
 ## Responsabilidades del firmware
 
