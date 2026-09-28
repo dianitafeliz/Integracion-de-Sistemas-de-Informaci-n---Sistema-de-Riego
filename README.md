@@ -61,42 +61,11 @@ Además de realizar el control físico, el sistema registra las condiciones dete
 
 La arquitectura está dividida en cinco componentes principales:
 
-```text
-┌───────────────────────┐
-│       HARDWARE        │
-│ ESP32-CAM + sensores  │
-│ + relé + bomba        │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│       FIRMWARE        │
-│ Lectura + clasificación│
-│ + control + JSON      │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│ COMUNICACIÓN SERIAL    │
-│ USB - COM3 - 115200    │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│    APLICACIÓN PYTHON   │
-│ Recepción + validación │
-│ errores + reconexión   │
-└───────────┬───────────┘
-            ↓
-       ┌────┴────┐
-       ↓         ↓
-┌──────────┐ ┌──────────────┐
-│  MySQL   │ │ JSON histórico│
-└──────────┘ └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   REPORTE    │
-             └──────────────┘
-```
+<img width="193" height="382" alt="image" src="https://github.com/user-attachments/assets/d5234a9f-aec4-4aac-bd4c-676e778e0e50" />
 
----
+
+<img width="1740" height="954" alt="image" src="https://github.com/user-attachments/assets/40d0da00-fcb1-473c-877c-9c3299a57a27" />
+
 
 # 4. Hardware
 
