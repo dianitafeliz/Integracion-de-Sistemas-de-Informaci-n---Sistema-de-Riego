@@ -626,202 +626,9 @@ RAM del proceso: 34.57 MB
 
 ---
 
-# 20. Preguntas de análisis
 
-## 20.1 ¿Qué responsabilidad pertenece al hardware y cuál al firmware? ¿Dónde se produce realmente cada transformación de datos?
 
-El hardware realiza la medición física mediante los sensores y ejecuta físicamente acciones como el control de la bomba.
-
-El firmware recibe las señales de los sensores, las interpreta y realiza transformaciones iniciales. Por ejemplo, convierte una lectura numérica de humedad en estados como `SECO`, `MEDIO` o `HUMEDO`.
-
-Posteriormente Python recibe el JSON y realiza otra transformación al convertir el mensaje recibido en datos estructurados que pueden ser validados y almacenados.
-
----
-
-## 20.2 ¿Qué servicios del sistema operativo utiliza la aplicación Python?
-
-La aplicación utiliza principalmente:
-
-- Puerto serial para comunicación con el ESP32.
-- Sistema de archivos para almacenar JSON y reportes.
-- Recursos de CPU.
-- Memoria RAM.
-- Almacenamiento.
-- Procesos.
-- Permisos de acceso a archivos.
-
-El monitoreo de recursos se realiza mediante `psutil`.
-
----
-
-## 20.3 ¿Qué ocurre si el sistema operativo revoca permisos sobre un recurso utilizado por la aplicación?
-
-La operación que intenta utilizar el recurso puede generar un error, por ejemplo, un `PermissionError` al intentar escribir el archivo JSON.
-
-La aplicación captura el error, lo registra y evita que el problema provoque el cierre completo del sistema cuando es posible.
-
----
-
-## 20.4 ¿Qué ventajas y limitaciones tiene Python frente a C/C++ o Rust?
-
-Python permite desarrollar rápidamente la lógica de procesamiento, validación, almacenamiento y monitoreo, además de contar con bibliotecas que simplifican estas tareas.
-
-C/C++ y Rust ofrecen mayor control sobre memoria y recursos y pueden ser más apropiados para tareas de bajo nivel o con restricciones de rendimiento.
-
-En este proyecto Python se utiliza para la aplicación de escritorio, mientras que el firmware utiliza C++.
-
----
-
-## 20.5 ¿Qué parte debería ejecutarse en firmware y cuál en software de aplicación?
-
-El firmware debe encargarse de las tareas directamente relacionadas con el dispositivo:
-
-- Lectura de sensores.
-- Clasificación básica.
-- Control de la bomba.
-- Generación de telemetría.
-
-La aplicación debe encargarse de:
-
-- Validación.
-- Persistencia.
-- Reportes.
-- Logs.
-- Monitoreo.
-- Reconexión.
-- Procesamiento de mayor nivel.
-
-Esta separación permite mantener responsabilidades claras entre las capas.
-
----
-
-## 20.6 ¿Cómo cambiaría la arquitectura para 100 dispositivos?
-
-Con 100 dispositivos no sería conveniente depender de conexiones seriales individuales hacia un único computador.
-
-La arquitectura podría evolucionar hacia una comunicación de red utilizando un protocolo como MQTT o HTTP.
-
-Cada dispositivo enviaría su información utilizando un identificador único.
-
-La arquitectura podría ser:
-
-```text
-100 ESP32
-    ↓
-Red
-    ↓
-Broker / API
-    ↓
-Servicio de procesamiento
-    ↓
-Base de datos
-    ↓
-Dashboard / Reportes
-```
-
-Esto permitiría manejar múltiples dispositivos de manera concurrente y centralizada.
-
----
-
-## 20.7 ¿Qué riesgos de seguridad aparecen al recibir datos externos o ejecutar comandos?
-
-Los principales riesgos incluyen:
-
-- Datos manipulados.
-- Datos mal formados.
-- Valores fuera de rango.
-- Acceso no autorizado.
-- Inyección de información.
-- Ejecución de comandos no confiables.
-- Uso excesivo de recursos.
-
-Por esto se deben validar los datos recibidos, limitar permisos y evitar ejecutar directamente información proveniente del dispositivo.
-
----
-
-## 20.8 ¿Cómo garantizar la integridad y trazabilidad de los datos?
-
-La integridad se controla mediante validaciones antes del almacenamiento.
-
-La trazabilidad se obtiene registrando:
-
-- Fecha y hora.
-- Identificador del dispositivo.
-- Datos recibidos.
-- Resultado de la validación.
-- Eventos.
-- Errores.
-- Inserciones en la base de datos.
-
-Los datos válidos también quedan almacenados en MySQL y en el historial JSON.
-
----
-
-## 20.9 ¿Qué diferencias pueden presentarse entre Windows y Linux?
-
-La lógica general de Python puede mantenerse, pero existen diferencias en:
-
-- Identificación de puertos seriales.
-- Rutas de archivos.
-- Permisos.
-- Servicios del sistema.
-- Administración de dispositivos.
-
-En este prototipo se utiliza Windows y el puerto `COM3`.
-
-En Linux el dispositivo serial normalmente tendría una identificación diferente y podrían ser necesarios permisos adicionales para acceder al puerto.
-
----
-
-## 20.10 ¿Cómo diseñar una estrategia de actualización del firmware?
-
-Para producción se recomienda una actualización controlada.
-
-Una estrategia podría ser:
-
-1. Probar la nueva versión.
-2. Desplegarla primero en un grupo pequeño.
-3. Verificar su funcionamiento.
-4. Ampliar progresivamente el despliegue.
-5. Mantener una versión anterior para recuperación.
-
-En una versión más avanzada se podría implementar actualización OTA.
-
----
-
-## 20.11 ¿Qué pruebas adicionales se realizarían antes de producción?
-
-Antes de producción sería necesario realizar:
-
-- Pruebas prolongadas.
-- Pruebas de pérdida de alimentación.
-- Pruebas de reinicio del ESP32.
-- Pruebas de sensores desconectados.
-- Pruebas de pérdida de comunicación.
-- Pruebas de datos corruptos.
-- Pruebas de almacenamiento lleno.
-- Pruebas de múltiples dispositivos.
-- Pruebas de carga.
-- Pruebas de seguridad.
-
----
-
-## 20.12 ¿Cuál sería el principal punto de falla y cómo hacerlo tolerante a fallos?
-
-Un punto importante de falla es la comunicación entre el ESP32 y Python.
-
-Para reducir el impacto de este fallo se implementó:
-
-- Detección de desconexión.
-- Registro del evento.
-- Reconexión automática.
-- Continuidad de la aplicación mientras el dispositivo está desconectado.
-
-De esta forma una pérdida temporal de comunicación no provoca el cierre completo de la aplicación.
-
----
-
-# 21. Instalación
+# 20. Instalación
 
 ## Requisitos
 
@@ -851,7 +658,7 @@ pip install pyserial mysql-connector-python psutil
 
 ---
 
-# 22. Configuración de la base de datos
+# 21. Configuración de la base de datos
 
 La aplicación utiliza:
 
@@ -870,7 +677,7 @@ eventos
 
 ---
 
-# 23. Ejecución del firmware
+# 22. Ejecución del firmware
 
 1. Abrir Arduino IDE.
 2. Abrir el firmware.
@@ -891,7 +698,7 @@ AI Thinker ESP32-CAM
 
 ---
 
-# 24. Ejecución de Python
+# 23. Ejecución de Python
 
 Desde la carpeta del proyecto:
 
@@ -925,94 +732,7 @@ reporte_ejecucion.txt
 
 ---
 
-# 25. Estructura del repositorio
-
-```text
-Actividad 2/
-│
-├── firmware_sistema_de_riego/
-│   └── firmware del ESP32-CAM
-│
-├── sistema_riego_reconexion.py
-├── telemetria_actual.json
-├── reporte_ejecucion.txt
-├── README.md
-├── documento_academico.pdf
-└── enlace_video.txt
-```
-
----
-
-# 26. Evidencias
-
-El proyecto cuenta con evidencias de:
-
-- Ejecución del firmware.
-- Recepción de telemetría.
-- Validación de datos.
-- Almacenamiento en MySQL.
-- Historial JSON.
-- Registro de eventos.
-- Datos fuera de rango rechazados.
-- JSON inválido rechazado.
-- Desconexión del ESP32.
-- Reconexión automática.
-- Monitoreo de recursos.
-- Generación del reporte.
-
----
-
-# 27. Resultados
-
-La integración permitió completar el flujo desde la captura de información física hasta su procesamiento, almacenamiento y generación de evidencias.
-
-El sistema demuestra la interacción entre:
-
-```text
-Hardware
-   ↓
-Firmware
-   ↓
-Sistema Operativo
-   ↓
-Python
-   ↓
-Persistencia
-   ↓
-Reportes
-```
-
-Además, el prototipo incorpora mecanismos de validación, observabilidad y recuperación ante fallos de comunicación.
-
----
-
-# 28. Archivos principales
-
-| Archivo | Función |
-|---|---|
-| `firmware_sistema_de_riego/` | Código del ESP32-CAM |
-| `sistema_riego_reconexion.py` | Aplicación principal |
-| `telemetria_actual.json` | Historial de telemetrías |
-| `reporte_ejecucion.txt` | Resumen de ejecución |
-| `README.md` | Documentación del proyecto |
-| `documento_academico.pdf` | Documento académico |
-| `enlace_video.txt` | Enlace al video de presentación |
-
----
-
-# 29. Video de presentación
-
-El video de presentación del proyecto se encuentra en YouTube.
-
-**Enlace:**
-
-```text
-PEGAR_AQUÍ_EL_ENLACE_DE_YOUTUBE
-```
-
----
-
-# 30. Autora
+# 24. Autora
 
 **Diana Moreno**
 
