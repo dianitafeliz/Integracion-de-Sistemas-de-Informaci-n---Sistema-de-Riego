@@ -1,4 +1,4 @@
-# 🌱 Sistema de Riego Inteligente — ESP32-CAM + Python + MySQL
+# 🌱 Sistema de Riego Inteligente — ESP32 - ARDUINO ID + Python + MySQL
 
 Proyecto académico de **Integración de Sistemas de Información** desarrollado para la Universidad Santo Tomás, segundo corte, 2026-2.
 
