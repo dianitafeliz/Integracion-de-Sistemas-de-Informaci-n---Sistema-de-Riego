@@ -57,6 +57,7 @@ Además de realizar el control físico, el sistema registra las condiciones dete
 ---
 
 # 3. Arquitectura del sistema
+<img width="1915" height="1001" alt="image" src="https://github.com/user-attachments/assets/b629d6a3-8fb4-485c-8ff5-c77729d2947f" />
 
 La arquitectura está dividida en cinco componentes principales:
 
